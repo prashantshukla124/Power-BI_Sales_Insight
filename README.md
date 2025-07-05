@@ -1,6 +1,8 @@
 # Power-BI_Sales_Insights
 A dashboard that turns scattered sales data into actionable insights for AtliQ Hardware, a nationwide computer‑hardware manufacturer and distributor.
 ![Image](https://github.com/user-attachments/assets/1c8e3ab1-5831-4d63-867f-75c84872b6fb)
+# Live Dashboard Link: 
+https://app.powerbi.com/view?r=eyJrIjoiMWNiN2ZkNWQtMzIwNC00M2E1LTkyNDMtMjI1NTk2YmJmNjBhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 # 📌 Problem Statement
 
 Sales at AtliQ Hardware have been slipping across branches. The Sales Director receives only bulky Excel files from regional managers—numbers without narrative. He needs a single source of truth that:
